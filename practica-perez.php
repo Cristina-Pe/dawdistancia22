@@ -1,3 +1,4 @@
+
 <?php
 
 /**
@@ -11,6 +12,7 @@
 */
 function nombre($nombre){
 echo "Tu nombre es".$nombre;
+echo "MODIFICACION";
 return $numero;
 }
 
